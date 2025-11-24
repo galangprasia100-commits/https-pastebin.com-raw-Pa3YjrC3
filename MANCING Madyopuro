@@ -14,7 +14,7 @@ end
 Transparacy.Toggle : { true,
 end 
   end
-Sigin_Key : {
+Sigin_Key : (Code_Key_Paste)
 
 Key : Kapan2AjaYa,
 
