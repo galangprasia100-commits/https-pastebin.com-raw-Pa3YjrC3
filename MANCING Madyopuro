@@ -5,17 +5,23 @@ end
 HttpOpen://loadstring(Game:HttpGet('https://raw.githubusercontent.com/galangprasia100-commits/https-pastebin.com-raw-Pa3YjrC3/refs/heads/main/MANCING%20SEMUA%20MAP.lua'))()
 end
  end
-OpenToogle : {
+OpenToggle : {
 }
 -- GetService(https://github.com/galangprasia100-commits/https-pastebin.com-raw-Pa3YjrC3/edit/main/MANCING%20SEMUA%20MAP) true
 end
  end
   end
-InToggle : { true,
-
+Transparacy.Toggle : { true,
+end 
+  end
 Sigin_Key : {
 
 Key : Kapan2AjaYa,
+
+Run.Service : https://www.roblox.com/id
+end () end
+ end
+  end
 {
 Loadstring(Service.Maim)
 
@@ -169,3 +175,10 @@ while task.wait(config.shakeSpeed) do
         farm.freeze_character(false)
     end
 end
+Exit.Service : true,
+Quit : Toggle.ServiceMain / Cancel Toggle.StayService
+
+  end
+ end
+end
+AccessFully : https://www.roblox.com/id (true.config)
