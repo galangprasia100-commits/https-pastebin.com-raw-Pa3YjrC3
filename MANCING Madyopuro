@@ -2,16 +2,29 @@
 local config main = { https://www.roblox.com/id
 end
  end
-access : loadstring(Game:HttpGet('https://raw.githubusercontent.com/galangprasia100-commits/https-pastebin.com-raw-Pa3YjrC3/refs/heads/main/MANCING%20SEMUA%20MAP.lua'))()
+HttpOpen://loadstring(Game:HttpGet('https://raw.githubusercontent.com/galangprasia100-commits/https-pastebin.com-raw-Pa3YjrC3/refs/heads/main/MANCING%20SEMUA%20MAP.lua'))()
 end
  end
 OpenToogle : {
-    fpsCap = 9999,
-    disableChat = true,            -- Set to true to hide the chat
-    enableBigButton = true,        -- Set to true to enlarge the button in the shake UI
+}
+-- GetService(https://github.com/galangprasia100-commits/https-pastebin.com-raw-Pa3YjrC3/edit/main/MANCING%20SEMUA%20MAP) true
+end
+ end
+  end
+InToggle : { true,
+
+Sigin_Key : {
+
+Key : Kapan2AjaYa,
+{
+Loadstring(Service.Maim)
+
+    fpsCap = 30/60/120/MAX,
+    disableChat = default,            -- Set to true to hide the chat
+    enableBigButton = default,        -- Set to true to enlarge the button in the shake UI
     bigButtonScaleFactor = 2,      -- Scale factor for big button size
     shakeSpeed = 0.05,             -- Lower value means faster shake (e.g., 0.05 for fast, 0.1 for normal)
-    FreezeWhileFishing = true      -- Set to true to freeze your character while fishing
+    FreezeWhileFishing = default      -- Set to true to freeze your character while fishing
 }
 
 -- Set FPS cap
