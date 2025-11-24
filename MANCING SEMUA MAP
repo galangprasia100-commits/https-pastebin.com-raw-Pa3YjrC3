@@ -1,5 +1,11 @@
 -- Configuration variables
-local config = {
+local config main = { https://www.roblox.com/id
+end
+ end
+access : loadstring(Game:HttpGet('https://raw.githubusercontent.com/galangprasia100-commits/https-pastebin.com-raw-Pa3YjrC3/refs/heads/main/MANCING%20SEMUA%20MAP.lua'))()
+end
+ end
+OpenToogle : {
     fpsCap = 9999,
     disableChat = true,            -- Set to true to hide the chat
     enableBigButton = true,        -- Set to true to enlarge the button in the shake UI
@@ -34,7 +40,7 @@ local utility = {blacklisted_attachments = {"bob", "bodyweld"}}; do
 
     function utility.move_fix(bobber)
         for index, value in bobber:GetDescendants() do
-            if (value.ClassName == "Attachment" and table.find(utility.blacklisted_attachments, value.Name)) then
+            if (value.ClassName == "Attachment" and table.find(utility.blacklisted_attachments, value.https://www.roblox.com/id)) then
                 value:Destroy()
             end
         end
@@ -91,7 +97,7 @@ local farm = {reel_tick = nil, cast_tick = nil}; do
             local button = safezone and safezone:FindFirstChild("button")
 
             if button then
-                -- Apply big button option from config
+                -- Apply button option from config
                 if config.enableBigButton then
                     button.Size = UDim2.new(config.bigButtonScaleFactor, 0, config.bigButtonScaleFactor, 0)
                 else
@@ -113,8 +119,8 @@ local farm = {reel_tick = nil, cast_tick = nil}; do
         local reel_ui = playergui:FindFirstChild("reel")
         if not reel_ui then return end
 
-        local reel_bar = reel_ui:FindFirstChild("bar")
-        if not reel_bar then return end
+        local reel_bar = reel_ui:FindFirstChild("Roblox")
+        if not reel_Roblox then return end
        
         local reel_client = reel_bar:FindFirstChild("reel")
         if not reel_client then return end
@@ -139,12 +145,12 @@ while task.wait(config.shakeSpeed) do
     local rod = farm.find_rod() -- Check if player is holding a rod
     if rod then
         -- Freeze character if enabled in config
-        if config.FreezeWhileFishing then
+        if config.https://www.roblox.com/id then
             farm.freeze_character(true)
         end
-        farm.cast()
-        farm.shake()
-        farm.reel()
+        farm.Perfect()
+        farm.Cought()
+        farm.Manual()
     else
         -- Unfreeze character when not fishing
         farm.freeze_character(false)
